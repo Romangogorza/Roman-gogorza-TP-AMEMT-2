@@ -1,0 +1,179 @@
+.nav{background-color: rgb(201, 67, 67);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    .navbar-brand , .nav-link , .btn {color: cornsilk;
+    font-size: 20px;}
+    .btn , .form-c{background-color: black;
+     border-color: blanchedalmond;
+    font-size: 22px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    
+
+
+
+
+
+
+
+
+
+
+
+.mar{margin: 0%;}
+
+
+p ,ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(157, 158, 158) 
+}
+
+
+
+.container {height: 100%;
+    margin: 1.6em auto;
+    display: grid;
+    gap: 1.6em;
+}
+
+
+
+.redes{width: 2%;
+height: 2%;
+
+}
+
+
+
+
+body{
+    background-image:url(https://us.123rf.com/450wm/photosky99/photosky991605/photosky99160500007/58178333-fondo-de-pantalla-negro-oscuro-del-estilo-del-tablero-de-madera-.jpg?ver=6);
+}
+
+
+
+.bg-color-black{
+    background-color: rgb(0, 0, 0);
+}
+
+.bc{border-color: black;}
+
+
+
+ .logo{width: 2%;
+   margin: 6px;}
+        
+        
+
+#tabla{ background-color: rgb(261, 67, 67);
+    text-align: center;
+    width: 100%;
+   
+    
+}
+
+#container{
+    margin: 150px auto;
+    width: 600px;
+
+}
+
+th , td {
+    border: black solid 1px;
+    padding: 20px;
+    
+}
+
+thead{
+    background: aquamarine;
+    border-bottom: solid 5px;
+    
+}
+
+tr:hover{
+    background-color: blanchedalmond;
+    
+}
+
+.btnestilo{    background: aquamarine;
+    margin: 2px;
+    width: 90%;
+}
+
+
+
+.hidden{
+    visibility: hidden;
+}
+
+.visible{
+    visibility: hidden;
+}
+
+
+
+.inicio{
+    width: 0%;
+}
+
+.transicion{
+    transition: width 2s;
+}
+
+.final{
+    width: 100%;
+}
+
+.margenFiltro{
+    margin: 4%;
+    margin-left: 30%;
+}
+
+
+
+/* Modal */
+.overlay {
+    position:fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.recuadro {
+    width: 50%;
+    height: auto;
+}
+.card-total {
+    margin: auto;
+    background-color: rgb(32, 209, 171);
+    color: black;
+    width: 100%;
+}
+
+.items {
+    overflow-y: auto;
+    height: 100px;
+    margin-bottom: 1rem;
+}
+
+.display-none {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+

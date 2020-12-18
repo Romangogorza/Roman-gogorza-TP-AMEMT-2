@@ -1,0 +1,108 @@
+
+.nav{background-color: rgb(201, 67, 67);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    .navbar-brand , .nav-link , .btn {color: cornsilk;
+    font-size: 20px;}
+    .btn , .form-c{background-color: black;
+     border-color: blanchedalmond;
+    font-size: 22px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    
+
+
+
+
+
+
+
+
+
+
+
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(157, 158, 158) 
+}
+
+h3{
+    text-align: center;}
+    
+
+.mar{
+    margin: 0%;
+}
+
+p ,ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body{
+    background-image:url(https://us.123rf.com/450wm/photosky99/photosky991605/photosky99160500007/58178333-fondo-de-pantalla-negro-oscuro-del-estilo-del-tablero-de-madera-.jpg?ver=6);
+}
+
+.container {
+    background-color: lightyellow;
+    width: 30%;
+    max-width: 1000px;
+    margin: 1.6em auto;
+
+    display: grid;
+    gap: 1.6em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.redes{width: 4%;
+    height: 4%;
+    }
+    
+
+
+
+
+    .bc{border-color: black;}
+
+
+
+
+
+
+
+
+
+
+
+    .logo{width: 2%;
+        margin: 6px;}
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bg-color-black{
+    background-color: rgb(0, 0, 0);
+}
